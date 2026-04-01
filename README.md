@@ -1,5 +1,6 @@
 ## Hi there 👋
-안녕하세요 
+안녕하세요.
+저는 영남대학교에 재학중인 이현경입니다.
 <!--
 **twora-bit/twora-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
