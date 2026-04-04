@@ -2,6 +2,7 @@
 안녕하세요.
 저는 영남대학교 수학과에 재학중인 이현경입니다.
 컴퓨터공학을 복수전공하고 있습니다.
+소프트웨어 개발자를 꿈꾸는 학생입니다.
 <!--
 **twora-bit/twora-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
